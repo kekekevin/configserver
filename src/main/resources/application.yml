@@ -4,3 +4,4 @@ spring:
       server:
         git:
           uri: https://bitbucket.org/kekekevin/config
+          username: kekekevin@gmail.com
